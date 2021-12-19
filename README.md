@@ -16,8 +16,8 @@ git clone https://github.com/Abraham15rivas/test-laravel-18-12-2021.git
 
 * Ve a la raíz del proyecto
 
-```bash test-laravel-18-12-2021
-cd 
+```bash 
+cd test-laravel-18-12-2021
 ```
 
 ## Preparar entorno
