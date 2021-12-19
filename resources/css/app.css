@@ -1,0 +1,77 @@
+
+body {
+    background: grey;
+}
+
+.login {
+    margin-top: 15%;
+}
+
+td {
+    cursor: pointer;
+}
+
+.card-new {
+    border-radius: 15px;
+}
+
+.vino {
+    background: #134f88;
+    color: white;
+    border-radius: 15px !important;
+}
+
+html, body {
+    background-color: #5e2129 ;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.bg-color {
+    color: black
+}
